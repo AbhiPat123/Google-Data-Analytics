@@ -4,11 +4,12 @@
 # bin-release/
 # [Oo]bj/
 # [Bb]in/
-Notebook/QUIZZES.one
 
 #Other files and folders
-# .settings/
+Notebook/QUIZZES.one
+Quizzes/
 
+# .settings/
 # Executables
 # *.swf
 # *.air
